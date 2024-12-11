@@ -61,12 +61,19 @@ Postman and other platform can be used to test the api's.
 All **Api's** are listed down;
 
 **SignUp User**: http://localhost:3000/api/user/signup
+
 **Login User**: http://localhost:3000/api/user/login
+
 **Get All Tasks**: http://localhost:3000/api/tasks
+
 **Post New Task**: http://localhost:3000/api/tasks
+
 **Get One Task By ID**: http://localhost:3000/api/tasks/(id of task)
+
 **Put Api for Task**: http://localhost:3000/api/tasks/(id of task)
+
 **Patch Api for Task**: http://localhost:3000/api/tasks/(id of task)
+
 **Delete Api for Task**: http://localhost:3000/api/tasks/(id of task)
 
 
