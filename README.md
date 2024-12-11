@@ -55,7 +55,7 @@ Note: **npm run dev** is for development mode
 
 ### 4. Testing API's
 
-API's by default will be running on **http://localhost:3000**
+API's by default will be running on **http://localhost:3000**.
 Postman and other platform can be used to test the api's.
 
 All **Api's** are listed down;
@@ -68,13 +68,13 @@ All **Api's** are listed down;
 
 **Post New Task**: http://localhost:3000/api/tasks
 
-**Get One Task By ID**: http://localhost:3000/api/tasks/(id of task)
+**Get One Task By ID**: http://localhost:3000/api/tasks/(id_of_task)
 
-**Put Api for Task**: http://localhost:3000/api/tasks/(id of task)
+**Put Api for Task**: http://localhost:3000/api/tasks/(id_of_task)
 
-**Patch Api for Task**: http://localhost:3000/api/tasks/(id of task)
+**Patch Api for Task**: http://localhost:3000/api/tasks/(id_of_task)
 
-**Delete Api for Task**: http://localhost:3000/api/tasks/(id of task)
+**Delete Api for Task**: http://localhost:3000/api/tasks/(id_of_task)
 
 
 Note: **Task** API's **(POST, PUT, PATCH, and DELETE)** needs authentication, so after login set the token in the **Authorization Header**(Bearer Token).
