@@ -12,7 +12,7 @@ By using **Express.js** and **MongoDB**, Create an API that includes basic CRUD 
 
 ### Note
 
-I use MongoDB compass to this project and my environment variable **MONGO_URI** is set according to this.
+I use MongoDB compass to do this project and my environment variable **MONGO_URI** is set according to this.
 
 
 ### Prerequisites
