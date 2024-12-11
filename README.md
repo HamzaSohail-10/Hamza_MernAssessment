@@ -33,7 +33,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone <repository-url>
-cd mern_assesment
+cd Hamza_MernAssessment
 npm install
 ```
 
